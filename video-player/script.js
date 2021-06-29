@@ -125,6 +125,8 @@ function changeSpeed() {
 
 // Fullscreen ------------------------------- //
 
+
+
 /* View in fullscreen */
 function openFullscreen(elem) {
     if (elem.requestFullscreen) {
